@@ -1,5 +1,3 @@
-# Financial-Chatbot
-
 # AI-Powered Financial Chatbot — BCG GenAI Consulting Job Simulation
 
 This repository contains the code and documentation for a job simulation completed as part of an application to BCG's GenAI Consulting team. The project involved building an AI-powered financial chatbot that interprets data from SEC filings (10-K and 10-Q) to deliver user-friendly financial insights.
